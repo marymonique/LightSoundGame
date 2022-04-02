@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Mary Campbell**
 
-Time spent: **#** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://imported-wakeful-pyjama.glitch.me/)
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://cdn.glitch.me/e78234b6-2b77-4b59-94aa-c6413fbff780/video2774901266.mp4?v=1648869739935
+![]https://cdn.glitch.global/e78234b6-2b77-4b59-94aa-c6413fbff780/walkthrough.gif?v=1648865602923
 
 
 ## Reflection Questions
@@ -59,7 +59,7 @@ Since this is my first time learning and programming with HTML, CSS, and JavaScr
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://cdn.glitch.me/e78234b6-2b77-4b59-94aa-c6413fbff780/video2774901266.mp4?v=1648869739935)
 
 
 ## License
